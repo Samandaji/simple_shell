@@ -12,6 +12,7 @@ char **tokstr(char *str, int type)
 {
 	int i, length = 1, count = 0;
 	char *s = NULL, *token = NULL, **tk = NULL;
+
 	if (type == 1)
 		s = _strdup(str);
 	if (type == 0)
