@@ -3,7 +3,7 @@
 /**
  * check_builtin - checks if a token is a built in
  * @tk: tokens entered
- * @status: built in or custom
+ * @sts: built in or custom
  * @env: environ variable
  */
 
