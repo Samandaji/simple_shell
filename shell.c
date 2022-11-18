@@ -9,7 +9,7 @@
  * Return: Success
  */
 
-int main( __attribute__((unused))int argc, __attribute__((unused)) char **argv,
+int main(__attribute__((unused))int argc, __attribute__((unused)) char **argv,
 	  __attribute__((unused)) char **env)
 {
 	char **token; /* individual tokens or commands */
